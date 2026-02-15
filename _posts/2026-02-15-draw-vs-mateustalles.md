@@ -58,11 +58,11 @@ On move 12, White played **Ng4** and I responded with **12...f5**, forking the k
 
 **13. Rxe6 Kh7**
 
-White found a strong reply: **13. Rxe6**, getting the rook out of the fork while grabbing a pawn on e6. I could also see the discovered attack coming: if White moved the rook off the e-file, the bishop on c4 would be pointing straight at f7 with check. So I tucked my king away to **h7**, and the engine gave this a "great move" rating.
+White found a strong reply: **13. Rxe6**, getting the rook out of the fork while grabbing a pawn on e6. I could also see the discovered attack coming: if White moved the rook off the e-file, the bishop on c4 would be pointing straight at f7 with check. So I tucked my king away to **h7**.
 
 <figure>
   <img src="{{ '/assets/images/2026-02-15-game2/move26.png' | relative_url }}" alt="After 13...Kh7">
-  <figcaption>After 13...Kh7: Sidestepping the discovered attack from the c4 bishop. Chess.com rated this a great move.</figcaption>
+  <figcaption>After 13...Kh7: Sidestepping the discovered attack from the c4 bishop.</figcaption>
 </figure>
 
 **14. Rd6 fxg4 15. Qxg4 Ne5 16. Rxd8 Nxg4 17. Rxf8 Bxf8**
@@ -102,6 +102,11 @@ Then White played **23. g3** to kick my knight away, and I retreated with **23..
   <figcaption>After 23. g3: White kicks the knight, but this opens up a fatal weakness. Bh3 would be checkmate in one. I played Nd5 instead.</figcaption>
 </figure>
 
+<figure>
+  <img src="{{ '/assets/images/2026-02-15-game2/missed-mate-in-1.png' | relative_url }}" alt="Bh3# is checkmate in one">
+  <figcaption>The missed Bh3#. The light-squared bishop delivers check on h3, and the dark-squared bishop and knight cover all escape squares.</figcaption>
+</figure>
+
 ---
 
 ### The Long Grind (Moves 24-44)
@@ -116,20 +121,23 @@ I moved my rook to f5, hoping to simplify, but looking back the engine says I sh
 
 The correct mating pattern at this stage was to get both bishops sitting next to each other on the d and e files on the third rank, which pushes the king back to the first rank with no escape, then bring the rook up to h1 to deliver checkmate. That's the main pattern I need to learn from this game.
 
+<figure>
+  <img src="{{ '/assets/images/2026-02-15-game2/bishops-mating-pattern.png' | relative_url }}" alt="Two bishops mating pattern">
+  <figcaption>The bishops mating pattern. Both bishops on adjacent files cut off the king's escape, while the rook comes to h1 for checkmate.</figcaption>
+</figure>
+
 **39. a4 Bc3+ 40. Rxc3**
 
-Then came my worst blunder. After some manoeuvring, I played **39...Bc3+**, putting my dark-squared bishop right in front of White's rook. An absolute blunder, no excuses. The rook just takes it.
+Then came my worst blunder. After some manoeuvring, I played **39...Bc3+**, putting my dark-squared bishop right in front of White's rook. An absolute blunder, no excuses. The rook just takes it. The engine says I could have played **Be4**, still offering a rook trade but keeping my bishop.
 
 <figure>
   <img src="{{ '/assets/images/2026-02-15-game2/move78.png' | relative_url }}" alt="After 39...Bc3+">
-  <figcaption>After 39...Bc3+: A terrible blunder. The rook simply takes the bishop. Instead, Be4 would have kept the piece while still offering a rook trade.</figcaption>
+  <figcaption>After 39...Bc3+: A terrible blunder. The rook simply takes the bishop. Be4 would have kept the piece while still offering a rook trade.</figcaption>
 </figure>
-
-The engine says there was no need to trade down to a rook and pawn endgame. I could have played **Be4**, still offering the rook exchange but keeping my bishop. Even after losing the dark-squared bishop, I should have been more focused on hunting down White's remaining pawns rather than trading pieces.
 
 **41. b5 Rf3 42. Kd2 h5 43. Rxd3 Rxd3+ 44. Kxd3**
 
-Everything came off the board. Now it was a pure pawn race.
+Without the bishop, the position simplified into a rook and pawn endgame. The rooks came off on move 43 and now it was a pure pawn race.
 
 ---
 
@@ -161,7 +169,7 @@ This should have been a walk in the park. Use the opposition technique, push the
 
 **69. Ka4 Kc4 1/2-1/2**
 
-Move 69. The opponent's king is on the edge of the board. My king and queen are two squares away. And it's stalemate. I knew it was a possibility, but with seven seconds left, I just couldn't find the safe move in time.
+Move 69. The opponent's king is on the edge of the board. My king and queen are two squares away. And it's stalemate. I knew it was a possibility, but with seven seconds left, I just couldn't find the accurate move in time.
 
 <figure>
   <img src="{{ '/assets/images/2026-02-15-game2/move138.png' | relative_url }}" alt="After 69...Kc4">
@@ -236,4 +244,4 @@ Qf1+ 50. Kd4 Qf2+ 51. Kd5 Qf3+ 52. Ke6 Qe3+ 53. Kd7 Qd3+ 54. Kc6 Qe4+
 ### Further Reading
 
 - [Pirc Defense: Complete Guide](https://www.chess.com/openings/Pirc-Defense) - Overview of the Pirc and its typical plans for Black
-- [King and Queen vs King Checkmate](https://www.chess.com/article/view/how-to-checkmate-with-king-and-queen) - The basic technique that I fumbled at the end
+- [King and Queen vs King Checkmate](https://www.chess.com/terms/chess-checkmate-king-queen) - The basic technique that I fumbled at the end
