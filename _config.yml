@@ -4,3 +4,5 @@ baseurl: ""
 url: "https://ohnonotmyhorsey.com"
 theme: minima
 future: true
+exclude:
+  - CLAUDE.md
