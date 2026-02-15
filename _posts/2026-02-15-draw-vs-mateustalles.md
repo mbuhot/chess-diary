@@ -15,7 +15,7 @@ figcaption {
 }
 </style>
 
-**Opening:** Pirc Defense | **Result:** 1/2-1/2 (Stalemate) | **Time Control:** 10 min Rapid | **Unrated**
+**Opening:** Pirc Defense | **Result:** 1/2-1/2 (Stalemate) | **Time Control:** 10 min Rapid | **Rated**
 
 [View on Chess.com](https://www.chess.com/game/164713835752)
 
