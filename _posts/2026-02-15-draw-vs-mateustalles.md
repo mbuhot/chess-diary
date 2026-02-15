@@ -19,6 +19,9 @@ figcaption {
 
 [View on Chess.com](https://www.chess.com/game/164713835752)
 
+<iframe id="14585179" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="https://www.chess.com/emboard?id=14585179"></iframe>
+<script>window.addEventListener("message",e=>{if(e.data&&"14585179"===e.data.id&&document.getElementById(e.data.id)){document.getElementById(e.data.id).style.height=(e.data.frameHeight+37)+"px"}})</script>
+
 ---
 
 ### Game Overview

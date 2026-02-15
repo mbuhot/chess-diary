@@ -3,3 +3,4 @@ description: Game reviews and analysis
 baseurl: "/chess-diary"
 url: "https://mbuhot.github.io"
 theme: minima
+future: true
