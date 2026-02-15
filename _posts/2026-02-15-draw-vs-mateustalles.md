@@ -98,13 +98,8 @@ Up six points of material with a well-placed knight and active pieces. My light-
 Then White played **23. g3** to kick my knight away, and I retreated with **23...Nd5**. What I missed was that g3 had opened up a fatal weakness: **23...Bh3** would have been checkmate in one. The light-squared bishop delivers check on h3, and the dark-squared bishop and knight cover all of the king's escape squares (g1, g2, and f2). A huge miss.
 
 <figure>
-  <img src="{{ '/assets/images/2026-02-15-game2/move45.png' | relative_url }}" alt="After 23. g3">
-  <figcaption>After 23. g3: White kicks the knight, but this opens up a fatal weakness. Bh3 would be checkmate in one. I played Nd5 instead.</figcaption>
-</figure>
-
-<figure>
-  <img src="{{ '/assets/images/2026-02-15-game2/missed-mate-in-1.png' | relative_url }}" alt="Bh3# is checkmate in one">
-  <figcaption>The missed Bh3#. The light-squared bishop delivers check on h3, and the dark-squared bishop and knight cover all escape squares.</figcaption>
+  <img src="{{ '/assets/images/2026-02-15-game2/missed-mate-in-1.png' | relative_url }}" alt="After 23. g3 - Bh3# is checkmate in one">
+  <figcaption>After 23. g3: Bh3 would be checkmate in one. The light-squared bishop delivers check on h3, and the dark-squared bishop and knight cover all escape squares. I played Nd5 instead.</figcaption>
 </figure>
 
 ---
@@ -119,7 +114,7 @@ I traded off more pieces and started trying to convert my material advantage. My
 
 I moved my rook to f5, hoping to simplify, but looking back the engine says I should have stayed active on the second rank. White's rook started chasing my king with checks and picked up the b7 pawn.
 
-The correct mating pattern at this stage was to get both bishops sitting next to each other on the d and e files on the third rank, which pushes the king back to the first rank with no escape, then bring the rook up to h1 to deliver checkmate. That's the main pattern I need to learn from this game.
+The correct mating pattern at this stage was to get both bishops sitting next to each other on the d and e files on the third rank, which pushes the king back to the first rank with no escape, then bring the rook up to h1 to deliver checkmate. That's an important mating pattern I need to learn from this game.
 
 <figure>
   <img src="{{ '/assets/images/2026-02-15-game2/bishops-mating-pattern.png' | relative_url }}" alt="Two bishops mating pattern">
