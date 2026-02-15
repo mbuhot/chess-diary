@@ -128,16 +128,16 @@ The correct mating pattern at this stage was to get both bishops sitting next to
 
 **39. a4 Bc3+ 40. Rxc3**
 
-Then came my worst blunder. After some manoeuvring, I played **39...Bc3+**, putting my dark-squared bishop right in front of White's rook. An absolute blunder, no excuses. The rook just takes it. The engine says I could have played **Be4**, still offering a rook trade but keeping my bishop.
+Then came my worst blunder. After some manoeuvring, I played **39...Bc3+**, putting my dark-squared bishop right in front of White's rook. An absolute blunder, no excuses. The rook just takes it. Instead, **39...Be3** would have established exactly the mating pattern described above, with both bishops on adjacent files cutting off the king.
 
 <figure>
   <img src="{{ '/assets/images/2026-02-15-game2/move78.png' | relative_url }}" alt="After 39...Bc3+">
-  <figcaption>After 39...Bc3+: A terrible blunder. The rook simply takes the bishop. Be4 would have kept the piece while still offering a rook trade.</figcaption>
+  <figcaption>After 39...Bc3+: A terrible blunder. The rook simply takes the bishop. Be3 would have set up the two-bishop mating pattern.</figcaption>
 </figure>
 
 **41. b5 Rf3 42. Kd2 h5 43. Rxd3 Rxd3+ 44. Kxd3**
 
-Without the bishop, the position simplified into a rook and pawn endgame. The rooks came off on move 43 and now it was a pure pawn race.
+Even after losing the dark-squared bishop, I still had a rook, a light-squared bishop, two passed pawns on the kingside, and an isolated pawn on the queenside, against White's rook and two pawns. That's a winning position if I keep my pieces active. But instead of using my extra bishop, I traded it off on d3 and then swapped rooks immediately after. By move 44 I had nothing left but pawns. I should have been hunting down White's remaining pawns with my material advantage rather than simplifying into a position where it all comes down to a pawn race.
 
 ---
 
@@ -192,7 +192,7 @@ After all the trades, I was up a piece and White's **19. Kh1** was a mistake. Th
 
 **Move 23: Missed mate in one.** After **23. g3**, the move **23...Bh3#** is checkmate. The light-squared bishop on h3 delivers check, and the dark-squared bishop and knight guard all the king's escape squares. A heartbreaking miss.
 
-**Move 39: Bc3+ was the big blunder.** The engine wanted **Be4**, keeping the bishop while still pressing. There was no need to simplify into a rook and pawn ending. In fact, trading everything down gave White an advantage in the resulting pawn race.
+**Move 39: Bc3+ was the big blunder.** The correct move was **Be3**, establishing the two-bishop mating pattern on adjacent files. Instead, the bishop walked straight into the rook and the winning position evaporated.
 
 **The pawn race was razor-thin.** Interestingly, if White had blocked the promotion square on h1 with the king, they could have promoted the a/b pawns with only my a-pawn in the way. But being one tempo too slow flipped the tables, and my h-pawn got there first.
 
