@@ -47,7 +47,7 @@ I went with the Pirc Defense, fianchettoing my dark-squared bishop and getting c
 
 **8. e5 dxe5 9. Nxe5 e6 10. Ne4 Nxe4 11. Rxe4 Nd7 12. Ng4 f5**
 
-White pushed **8. e5**, opening things up in the centre with the knight on e5 and the rook lined up behind on e4. I hadn't faced an attack quite like this before, so I took it slow and tried not to panic. The bishop on c4 was staring straight at f7, which I knew could become a problem.
+White pushed **8. e5**, supported by the knight on f3 and the rook on e1 behind it. I hadn't faced an attack quite like this before, so I took it slow and tried not to panic. After the exchanges, White got the knight to e5 and the rook to e4, building up serious pressure. The bishop on c4 was staring straight at f7, which I knew could become a problem.
 
 On move 12, White played **Ng4** and I responded with **12...f5**, forking the knight and the rook. I thought this was clever at the time, but the engine says **12...h5** was better, simply kicking the knight away without weakening my pawn structure.
 
