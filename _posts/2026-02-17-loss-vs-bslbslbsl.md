@@ -77,7 +77,7 @@ Interestingly, White was very keen to trade queens at this point. They must have
 
 <figure>
   <img src="{{ '/assets/images/2026-02-17/move32.png' | relative_url }}" alt="After 16...Qxh4+">
-  <figcaption>After 16...Qxh4+: Check! The king has to move and Black's pieces are swarming the kingside.</figcaption>
+  <figcaption>After 16...Qxh4+: Check! The king has to move and Black's pieces are attacking the kingside.</figcaption>
 </figure>
 
 ---
