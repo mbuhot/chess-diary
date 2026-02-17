@@ -15,7 +15,7 @@ figcaption {
 }
 </style>
 
-**Opening:** King's Indian Defense | **Result:** 1-0 (Time) | **Time Control:** 10 min Rapid | **Rated**
+**Opening:** King's Indian Defense | **Result:** 1-0 (Time) | **Time Control:** 10 min Rapid | **Unrated**
 
 [View on Chess.com](https://www.chess.com/game/164790760986)
 
@@ -26,7 +26,7 @@ figcaption {
 
 ### Game Overview
 
-Playing as Black against a higher-rated opponent, I set up a King's Indian Defense and managed to build a strong attacking position on the kingside. White's mistake on move 14 (g4) gave me a nearly four-point advantage. I had real attacking chances with my queen, bishop, and rook all pointed at the king. But I never found the right way to convert the attack. A blunder on move 20 gave away my bishop for nothing, and from there I was fighting to survive. I managed to regroup and set up a second attack, but with time running low I traded down into a lost endgame and flagged. An underrated game where the ideas were there, but the calculation wasn't deep enough.
+Playing as Black against a slightly higher-rated opponent, I set up a King's Indian Defense and managed to build a strong attacking position on the kingside. White's mistake on move 14 (g4) gave me a nearly four-point advantage. I had real attacking chances with my queen, bishop, and rook all pointed at the king. But I never found the right way to convert the attack. A blunder on move 20 gave away my bishop for nothing, and from there I was fighting to survive. I managed to regroup and set up a second attack, but with time running low I traded down into a lost endgame and flagged. The ideas were there, but the calculation wasn't deep enough.
 
 ---
 
@@ -34,7 +34,7 @@ Playing as Black against a higher-rated opponent, I set up a King's Indian Defen
 
 **1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nd2 O-O 5. Be2 d6 6. h4 h5 7. Ngf3 Nbd7**
 
-My opponent opened with **1. d4** and against that I like to play the King's Indian Defense. The fianchetto went smoothly and I castled early. On move 6, White played **h4** which I really didn't want to allow any further forward, so I played **h5** to block it. One thing I wasn't sure about at the time: does that weaken g5? As we'll see later, it does allow a knight to land on g5.
+My opponent opened with **1. d4** and against that I like to play the King's Indian Defense. I fianchetto'd and castled without any issues. On move 6, White played **h4** which I really didn't want to allow any further forward, so I played **h5** to block it. One thing I wasn't sure about at the time: does that weaken g5? As we'll see later, it does allow a knight to land on g5.
 
 <figure>
   <img src="{{ '/assets/images/2026-02-17/move12.png' | relative_url }}" alt="After 6...h5">
@@ -158,7 +158,7 @@ White had other ideas though, and after the trades I was in a completely lost en
 
 ### Reflections
 
-An underrated game where I was playing a higher-rated opponent and managed to build genuine attacking chances. The ideas were there, but turning them into a concrete win was the missing piece.
+I was playing a higher-rated opponent and managed to build genuine attacking chances. The ideas were there, but turning them into a concrete win was the missing piece.
 
 **What went well:**
 
@@ -192,4 +192,4 @@ Qxd7 38. Rxd7+ Kg6 39. fxe4 Kg5 40. exf5 Kxf5 41. Rg7 h4 42. Kd3 1-0
 ### Further Reading
 
 - [King's Indian Defense: Complete Guide](https://www.chess.com/openings/Kings-Indian-Defense) - The opening I played as Black
-- [Attacking Chess: How to Convert an Advantage](https://www.chess.com/article/view/attacking-chess) - Relevant to converting attacking positions
+- [How To Convert An Advantage](https://www.chess.com/article/view/how-to-convert-chess-advantage) - Relevant to converting attacking positions
