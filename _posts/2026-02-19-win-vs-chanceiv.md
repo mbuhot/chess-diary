@@ -78,7 +78,7 @@ I'm not quite sure what my opponent was thinking here, because after I attacked 
 
 <figure>
   <img src="{{ '/assets/images/2026-02-19/move32.png' | relative_url }}" alt="After 16...exf3">
-  <figcaption>After 16...exf3: Black takes en passant, undoubling White's e-pawns.</figcaption>
+  <figcaption>After 16...exf3: Black takes en passant, with a chance to undouble White's e-pawns if black pushes f4.</figcaption>
 </figure>
 
 <figure>
