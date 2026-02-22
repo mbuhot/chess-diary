@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bullet Session 2: Surprise Checkmates"
-date: 2026-02-22 12:00:00
+date: 2026-02-22 12:00:00 +1000
 ---
 
 <style>

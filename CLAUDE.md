@@ -213,4 +213,8 @@ The embed goes directly after the section heading, before any intro text.
 
 ## Post dating
 
-When multiple games are posted on the same day, use the `date` front matter with a time component to control sort order (e.g. `2026-02-15 14:00:00` for the second game). The `_config.yml` has `future: true` so time-of-day won't prevent publishing.
+When multiple games are posted on the same day, use the `date` front matter with a time component to control sort order (e.g. `2026-02-15 14:00:00 +1000` for the second game). Always include the `+1000` timezone offset (AEST). Without it, Jekyll treats the time as UTC and afternoon times roll over to the next day. The `_config.yml` has `future: true` so time-of-day won't prevent publishing.
+
+## Chess diagram dependencies
+
+python-chess and cairosvg are installed in a project-local venv at `.skills/chess-diagram/chess-diagram/.venv/`. Use `.venv/bin/python3` to run the diagram generator.
