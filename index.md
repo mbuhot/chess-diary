@@ -8,3 +8,7 @@ layout: home
     <p style="margin: 0;">I'm <a href="https://www.chess.com/member/ohnonotmyhorsey">ohnonotmyhorsey</a>, a player on <a href="https://www.chess.com">Chess.com</a> trying to improve my chess. This is where I review my games, break down what I was thinking, and figure out what I need to work on. Mostly I play the Colle-Zukertort as White and the King's Indian or Pirc as Black.</p>
   </div>
 </div>
+
+<p style="text-align: center; margin-bottom: 2em;">
+  <a href="https://www.chess.com/play/online/new?opponent=ohnonotmyhorsey" style="display: inline-block; background-color: #739552; color: #fff; padding: 0.6em 1.4em; border-radius: 6px; text-decoration: none; font-weight: bold;">Fancy a game? Send me a challenge on Chess.com</a>
+</p>
