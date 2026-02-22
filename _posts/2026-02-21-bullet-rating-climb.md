@@ -27,9 +27,6 @@ th, td {
 th {
   background-color: #f5f5f5;
 }
-tr.win { background-color: #e8f5e9; }
-tr.loss { background-color: #ffebee; }
-tr.draw { background-color: #fff8e1; }
 </style>
 
 **Time Control:** 2 min + 1 sec increment (Bullet) | **Games:** 22 | **Record:** 15W / 1D / 6L | **Rating:** 157  326 (+169)
@@ -49,28 +46,28 @@ First real bullet session. I'd been playing rapid (10 min) but wanted to try som
 <tr><th>#</th><th>Color</th><th>Opponent</th><th>Result</th><th>Moves</th><th>My Acc</th><th>Rating</th></tr>
 </thead>
 <tbody>
-<tr class="win"><td>1</td><td>Black</td><td>Odynaaa (123)</td><td>Win</td><td>60</td><td>65.4</td><td>157</td></tr>
-<tr class="draw"><td>2</td><td>White</td><td>endgame1234567 (175)</td><td>Draw</td><td>31</td><td>-</td><td>159</td></tr>
-<tr class="win"><td>3</td><td>White</td><td>senseiswrld (125)</td><td>Win</td><td>20</td><td>74.9</td><td>196</td></tr>
-<tr class="win"><td>4</td><td>Black</td><td>ActionFamily (140)</td><td>Win</td><td>21</td><td>83.1</td><td>227</td></tr>
-<tr class="win"><td>5</td><td>Black</td><td>Rajkumari_indu (224)</td><td>Win</td><td>25</td><td>84.4</td><td>260</td></tr>
-<tr class="win"><td>6</td><td>White</td><td>Hordenas (204)</td><td>Win</td><td>22</td><td>81.0</td><td>286</td></tr>
-<tr class="loss"><td>7</td><td>White</td><td>funkster86 (317)</td><td>Loss</td><td>21</td><td>-</td><td>260</td></tr>
-<tr class="loss"><td>8</td><td>Black</td><td>iggi87 (267)</td><td>Loss</td><td>24</td><td>72.3</td><td>234</td></tr>
-<tr class="win"><td>9</td><td>Black</td><td>Emirhan1828 (182)</td><td>Win</td><td>22</td><td>74.2</td><td>255</td></tr>
-<tr class="loss"><td>10</td><td>White</td><td>kdthemd (306)</td><td>Loss</td><td>17</td><td>-</td><td>235</td></tr>
-<tr class="win"><td>11</td><td>White</td><td>sanketgo (233)</td><td>Win</td><td>32</td><td>47.9</td><td>256</td></tr>
-<tr class="win"><td>12</td><td>Black</td><td>vin29650 (241)</td><td>Win</td><td>32</td><td>59.1</td><td>276</td></tr>
-<tr class="win"><td>13</td><td>White</td><td>GuildyRoy (227)</td><td>Win</td><td>43</td><td>58.1</td><td>293</td></tr>
-<tr class="loss"><td>14</td><td>Black</td><td>Ozerdtheking (311)</td><td>Loss</td><td>22</td><td>63.9</td><td>276</td></tr>
-<tr class="win"><td>15</td><td>Black</td><td>CoolT_981 (150)</td><td>Win</td><td>7</td><td>71.2</td><td>288</td></tr>
-<tr class="win"><td>16</td><td>White</td><td>titoune19 (283)</td><td>Win</td><td>26</td><td>65.0</td><td>305</td></tr>
-<tr class="loss"><td>17</td><td>Black</td><td>Wh1sc (289)</td><td>Loss</td><td>40</td><td>57.1</td><td>288</td></tr>
-<tr class="win"><td>18</td><td>Black</td><td>naaiiffffi (216)</td><td>Win</td><td>31</td><td>77.7</td><td>300</td></tr>
-<tr class="loss"><td>19</td><td>White</td><td>wwwwoooo28282 (305)</td><td>Loss</td><td>23</td><td>71.3</td><td>285</td></tr>
-<tr class="win"><td>20</td><td>White</td><td>Chaisenons (277)</td><td>Win</td><td>21</td><td>82.8</td><td>299</td></tr>
-<tr class="win"><td>21</td><td>Black</td><td>daniellebuban (305)</td><td>Win</td><td>18</td><td><strong>95.1</strong></td><td>313</td></tr>
-<tr class="win"><td>22</td><td>White</td><td>goated0077 (320)</td><td>Win</td><td>27</td><td><strong>88.6</strong></td><td>326</td></tr>
+<tr><td>1</td><td>Black</td><td>Odynaaa (123)</td><td>🏆 Win</td><td>60</td><td>65.4</td><td>157</td></tr>
+<tr><td>2</td><td>White</td><td>endgame1234567 (175)</td><td>🤝 Draw</td><td>31</td><td>-</td><td>159</td></tr>
+<tr><td>3</td><td>White</td><td>senseiswrld (125)</td><td>🏆 Win</td><td>20</td><td>74.9</td><td>196</td></tr>
+<tr><td>4</td><td>Black</td><td>ActionFamily (140)</td><td>🏆 Win</td><td>21</td><td>83.1</td><td>227</td></tr>
+<tr><td>5</td><td>Black</td><td>Rajkumari_indu (224)</td><td>🏆 Win</td><td>25</td><td>84.4</td><td>260</td></tr>
+<tr><td>6</td><td>White</td><td>Hordenas (204)</td><td>🏆 Win</td><td>22</td><td>81.0</td><td>286</td></tr>
+<tr><td>7</td><td>White</td><td>funkster86 (317)</td><td>👎 Loss</td><td>21</td><td>-</td><td>260</td></tr>
+<tr><td>8</td><td>Black</td><td>iggi87 (267)</td><td>👎 Loss</td><td>24</td><td>72.3</td><td>234</td></tr>
+<tr><td>9</td><td>Black</td><td>Emirhan1828 (182)</td><td>🏆 Win</td><td>22</td><td>74.2</td><td>255</td></tr>
+<tr><td>10</td><td>White</td><td>kdthemd (306)</td><td>👎 Loss</td><td>17</td><td>-</td><td>235</td></tr>
+<tr><td>11</td><td>White</td><td>sanketgo (233)</td><td>🏆 Win</td><td>32</td><td>47.9</td><td>256</td></tr>
+<tr><td>12</td><td>Black</td><td>vin29650 (241)</td><td>🏆 Win</td><td>32</td><td>59.1</td><td>276</td></tr>
+<tr><td>13</td><td>White</td><td>GuildyRoy (227)</td><td>🏆 Win</td><td>43</td><td>58.1</td><td>293</td></tr>
+<tr><td>14</td><td>Black</td><td>Ozerdtheking (311)</td><td>👎 Loss</td><td>22</td><td>63.9</td><td>276</td></tr>
+<tr><td>15</td><td>Black</td><td>CoolT_981 (150)</td><td>🏆 Win</td><td>7</td><td>71.2</td><td>288</td></tr>
+<tr><td>16</td><td>White</td><td>titoune19 (283)</td><td>🏆 Win</td><td>26</td><td>65.0</td><td>305</td></tr>
+<tr><td>17</td><td>Black</td><td>Wh1sc (289)</td><td>👎 Loss</td><td>40</td><td>57.1</td><td>288</td></tr>
+<tr><td>18</td><td>Black</td><td>naaiiffffi (216)</td><td>🏆 Win</td><td>31</td><td>77.7</td><td>300</td></tr>
+<tr><td>19</td><td>White</td><td>wwwwoooo28282 (305)</td><td>👎 Loss</td><td>23</td><td>71.3</td><td>285</td></tr>
+<tr><td>20</td><td>White</td><td>Chaisenons (277)</td><td>🏆 Win</td><td>21</td><td>82.8</td><td>299</td></tr>
+<tr><td>21</td><td>Black</td><td>daniellebuban (305)</td><td>🏆 Win</td><td>18</td><td><strong>95.1</strong></td><td>313</td></tr>
+<tr><td>22</td><td>White</td><td>goated0077 (320)</td><td>🏆 Win</td><td>27</td><td><strong>88.6</strong></td><td>326</td></tr>
 </tbody>
 </table>
 
