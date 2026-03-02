@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Preview__preview_start",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(python3:*)",
+      "Bash(ls:*)",
+      "Bash(/opt/homebrew/bin/python3:*)",
+      "Bash(/usr/bin/python3:*)",
+      "Bash(/Users/michaelbuhot/src/mbuhot/chess-diary/.skills/chess-diagram/chess-diagram/.venv/bin/pip install python-chess cairosvg)",
+      "Bash(PYTHON=/Users/michaelbuhot/src/mbuhot/chess-diary/.skills/chess-diagram/chess-diagram/.venv/bin/python3:*)",
+      "Bash($PYTHON -c \":*)",
+      "Bash(grep:*)"
+    ]
+  }
+}
