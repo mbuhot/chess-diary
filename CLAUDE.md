@@ -219,6 +219,10 @@ When multiple games are posted on the same day, use the `date` front matter with
 
 Don't guess URLs for the Further Reading section. Search the web first to find real, current links on the relevant topics. Verify with WebFetch where possible. If a domain is blocked by the proxy, web search results are acceptable confirmation that the URL exists.
 
+## Git commits
+
+Never include AI attribution lines in commit messages (e.g. `Co-Authored-By: Claude ...`).
+
 ## Chess diagram dependencies
 
 python-chess and cairosvg are installed in a project-local venv at `.skills/chess-diagram/chess-diagram/.venv/`. Use `.venv/bin/python3` to run the diagram generator.
