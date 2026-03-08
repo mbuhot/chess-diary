@@ -32,7 +32,7 @@ This was a really fun game. We were both attacking and I think my opponent was r
   <figcaption>After 9. dxc5: Fixing my pawn structure by taking the c5 pawn. The doubled d-pawns are resolved.</figcaption>
 </figure>
 
-The opening was a little different to what I normally get. The early c5 from my opponent is apparently called the Kraus variation of the Queen's Pawn opening. I'm not too worried because I can defend the pawns using the bishop and knight, so I focus on development. On move 7 Black trades their light-squared bishop for mine and I take back with the pawn, giving me some doubled pawns on the d-file. I fix up my pawn structure by taking the c5 pawn.
+The opening was a little different to what I normally get. The early c5 from my opponent is apparently called the Krause Variation of the Queen's Pawn opening. I'm not too worried because I can defend the pawns using the bishop and knight, so I focus on development. On move 7 Black trades their light-squared bishop for mine and I take back with the pawn, giving me some doubled pawns on the d-file. I fix up my pawn structure by taking the c5 pawn.
 
 ---
 
