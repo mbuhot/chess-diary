@@ -9,7 +9,7 @@ figure { margin: 1.5em 0 2em; }
 figcaption { font-style: italic; color: #555; margin-top: 0.5em; }
 </style>
 
-**Opening:** Kraus Variation, Queen's Pawn | **Result:** 1-0 (Checkmate) | **Time Control:** 10 min Rapid | **Rated**
+**Opening:** Krause Variation, Queen's Pawn | **Result:** 1-0 (Checkmate) | **Time Control:** 10 min Rapid | **Rated**
 
 [View on Chess.com](https://www.chess.com/game/165655436230)
 
@@ -190,6 +190,7 @@ h6 22. Ng6 Rfc8 23. g4 Qa3 24. Rf1 Qxa2 25. g5 fxg6 26. Qxg6 Bxd4 27. Rxh6 Bxe3+
 
 ### Further Reading
 
+- [Queen's Pawn Opening: Krause Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Krause-Variation)
 - [What Is a Sacrifice in Chess?](https://www.chess.com/terms/chess-sacrifice)
 - [Counterattack in Chess](https://www.chess.com/article/view/game-changing-chess-trick)
 - [Attack! ... When? Where?](https://www.chess.com/article/view/attack)
