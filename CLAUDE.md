@@ -168,8 +168,8 @@ Diagrams are generated using python-chess via the chess-diagram skill at `.skill
 
 ### Config settings
 
-- **Chess.com green theme colours:** `#ebecd0` (light squares), `#739552` (dark squares)
-- **Last move highlights:** from-square `#829769A0`, to-square `#BACB44A0`
+- **Chess.com green theme colours:** `"colors": {"square_light": "#ebecd0", "square_dark": "#739552"}`
+- **Last move highlights:** `"highlights": [{"square": "e2", "color": "#829769A0"}, {"square": "e4", "color": "#BACB44A0"}]`
 - **Board orientation:** match the player's colour (Black games = `"black"`, White games = `"white"`)
 - **Size:** 720px
 - **Coordinates:** true
@@ -196,6 +196,8 @@ Use `<figure>` and `<figcaption>` HTML, not markdown image syntax:
 ```
 
 Diagrams appear BEFORE their associated narrative text.
+
+Captions should be short and not repeat what the narrative says. Keep them to a brief label of what's happening on the board (e.g. "After 17. Nxh7: Knight raids the kingside."). The narrative paragraph that follows provides the detail.
 
 ## Move list pacing
 
