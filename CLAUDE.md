@@ -195,9 +195,13 @@ Use `<figure>` and `<figcaption>` HTML, not markdown image syntax:
 </figure>
 ```
 
-Diagrams appear BEFORE their associated narrative text.
+### Placement
 
-Captions should be short and not repeat what the narrative says. Keep them to a brief label of what's happening on the board (e.g. "After 17. Nxh7: Knight raids the kingside."). The narrative paragraph that follows provides the detail.
+Diagrams show the position at the START of a move list (decision point), not the end result. The reader sees the starting position and then follows the choices made from there. This emphasises the decisions rather than the outcomes. Pattern: diagram → bold moves → narrative explaining the choices.
+
+Exception: checkmate/final position diagrams go at the end of the finishing section.
+
+Captions should be short and not repeat what the narrative says. Keep them to a brief label of what's happening on the board (e.g. "After 16...c5: Knight on g5, bishop eyeing h7."). The narrative paragraph that follows provides the detail.
 
 ## Move list pacing
 
