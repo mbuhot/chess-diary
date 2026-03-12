@@ -26,7 +26,7 @@ This game was well fought and quite even right up until the end when it fell apa
 ### Neutralising the f7 Attack (Moves 1-8)
 
 <figure>
-  <img src="{{ '/assets/images/2026-03-12-game3/move09.png' | relative_url }}" alt="After 5. Ng5">
+  <img src="{{ '/assets/images/2026-03-12-game3/move9.png' | relative_url }}" alt="After 5. Ng5">
   <figcaption>After 5. Ng5: Knight and bishop both targeting f7.</figcaption>
 </figure>
 
