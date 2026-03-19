@@ -179,7 +179,6 @@ I was really happy with how accurately I played at the end. It's mate in 24 from
 
 - The attack with the queen on the kingside was premature. My pieces weren't coordinated. I had really awkwardly placed bishops and a rook with no activity at all on a8. Need to consider how many pieces I can actually get into the attack and how many defenders are there before launching in.
 - Had my opponent played very accurately they would have won. On move 29 there was a +4 advantage for White even though material was equal. My position was a mess.
-- The Bg4 pin was safe on move 11 (guarded by the knight on f6) but risky on move 16 without that protection. Same lesson as the Juggernaught654 game.
 
 ---
 
