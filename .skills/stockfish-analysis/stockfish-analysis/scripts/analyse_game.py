@@ -33,17 +33,24 @@ import chess.engine
 
 
 # Move classification thresholds (centipawn loss).
-# "miss" is a special category: moderate loss (50-100cp) in a winning position (>=150cp).
-# This matches the chesscli classification system.
+# Calibrated to match chess.com classifications:
+#   - Blunder: >300cp loss in a live position (not already lost)
+#   - Mistake: >100cp loss
+#   - Miss: 50-100cp loss in a winning position (from chesscli)
+# Moves in already-decided positions (eval beyond ±500cp) are capped at "mistake".
 THRESHOLDS = {
     "best": 0,
     "excellent": 10,
     "good": 25,
     "inaccuracy": 50,
     "miss": 100,       # 50-100cp loss in winning position
-    "mistake": 150,
+    "mistake": 300,
     "blunder": float("inf"),
 }
+
+# Eval threshold beyond which the position is considered decided.
+# Blunders in these positions are downgraded to "mistake" since the game is already over.
+DECIDED_EVAL = 500
 
 # NAG (Numeric Annotation Glyph) codes for PGN
 NAGS = {
@@ -64,6 +71,9 @@ def classify_move(cp_loss, played_best, mover_eval_before):
 
     The 'miss' category (from chesscli) captures moderate losses in winning
     positions: you had a significant advantage and let some of it slip.
+
+    Moves in already-decided positions (eval beyond DECIDED_EVAL) are capped
+    at "mistake" since the game outcome is no longer in doubt.
     """
     if played_best:
         return "best"
@@ -78,6 +88,11 @@ def classify_move(cp_loss, played_best, mover_eval_before):
         return "miss"
     if cp_loss <= THRESHOLDS["mistake"]:
         return "mistake"
+    # In decided positions (already winning or losing by a lot), large cp_loss
+    # is a "miss" (threw away a winning position) rather than a "blunder".
+    # This matches chess.com's classification behaviour.
+    if abs(mover_eval_before) >= DECIDED_EVAL:
+        return "miss"
     return "blunder"
 
 

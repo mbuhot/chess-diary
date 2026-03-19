@@ -38,10 +38,12 @@ Thresholds (centipawn loss from the moving player's perspective):
 | Good        | ≤ 25          |                                | —    |        |
 | Inaccuracy  | ≤ 50          |                                | $6   | ?!     |
 | Miss        | ≤ 100         | Only in winning positions (≥150cp) | $6   | ?!     |
-| Mistake     | ≤ 150         |                                | $2   | ?      |
-| Blunder     | > 150         |                                | $4   | ??     |
+| Mistake     | ≤ 300         |                                | $2   | ?      |
+| Blunder     | > 300         | Only in live positions (eval within ±500cp) | $4   | ??     |
 
 The "Miss" category (from chesscli) captures a specific pattern: you had a significant advantage and let some of it slip. It's distinct from a plain inaccuracy because the context matters: missing an opportunity when winning is different from making a slightly imprecise move in an equal position.
+
+Moves in already-decided positions (eval beyond ±500cp) are classified as "miss" rather than "blunder", even if the cp loss is large. This matches chess.com's behaviour: throwing away a winning position is a missed opportunity, not a blunder in the traditional sense.
 
 Evaluations are always from White's perspective internally, then flipped for Black's cp_loss calculation.
 
