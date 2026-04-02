@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Win vs keysamsi (750)"
-date: 2026-04-01 14:00:00 +1000
+date: 2026-04-02 14:00:00 +1000
 ---
 
 <style>
@@ -9,7 +9,7 @@ figure { margin: 1.5em 0 2em; }
 figcaption { font-style: italic; color: #555; margin-top: 0.5em; }
 </style>
 
-**Opening:** King's Indian Defence | **Result:** 0-1 (Checkmate) | **Time Control:** 10 min Rapid | **Rated**
+**Opening:** King's Indian Defence | **Result:** 0-1 (Checkmate) | **Time Control:** 10 min Rapid | **Unrated**
 
 [View on Chess.com](https://www.chess.com/game/live/166740320278?move=0)
 
@@ -19,7 +19,7 @@ figcaption { font-style: italic; color: #555; margin-top: 0.5em; }
 
 ### Game Overview
 
-It had been a couple of weeks since my last game because real life got in the way. I sold my house at auction, which was incredibly stressful and exciting, and then had to very quickly secure a new property to buy. Both went well, but there was no way I could play any good chess during all of that. My puzzle rating dropped from 2000 to 1900 over the course of a week. Once things settled down I got the puzzle rating back up over 2000 and decided it was time to play some games again. This was a rapid game to ease back in, and I'm very glad I played it. A solid, patient game where I traded queens early, ground out a positional advantage on the queenside, and found a nice knight fork to win the game.
+It had been a couple of weeks since my last game because real life got in the way. I sold my house at auction, which was incredibly stressful and exciting, and then had to very quickly secure a new property to buy. Both went well, but there was no way I could play any good chess during all of that. My puzzle rating dropped from 2000 to 1900 over the course of a week. Once things settled down I got the puzzle rating back up over 2000 and decided it was time to play some games again. This was an unrated game to ease back in, and I'm very glad I played it. A solid, patient game where I traded queens early, ground out a positional advantage on the queenside, and found a nice knight fork to win the game.
 
 ---
 
@@ -81,7 +81,7 @@ White exploited the pin on my f6 knight by taking on e5. Normally the move here 
 
 **14. Rxd1 Ncxe4 15. Bf3 h6 16. Bf4 Nxc3 17. bxc3 Bxf3 18. Nxf3 Ne4**
 
-I grabbed the pawn on e4 with my knight which had two defenders, so it was feeling pretty comfortable. White pinned it to the bishop on b7, so while the bishop was doing a good job defending the knight, the knight couldn't actually make any moves. As soon as I moved it, White's bishop could take Black's bishop. Since I was playing fairly defensively I didn't mind trading pieces, trying to win a pawn here or there and see if I could win through a promotion. My double fianchetto was looking pretty good. I just had to watch out for White's knights. I was susceptible to walking into forks.
+I grabbed the pawn on e4 with my knight which had two defenders, so it was feeling pretty comfortable. White pinned it to the bishop on b7, so while the bishop was doing a good job defending the knight, the knight couldn't actually make any moves. As soon as I moved it, White's bishop could take Black's bishop. Since I was playing fairly defensively I didn't mind trading pieces, trying to win a pawn here or there and see if I could win through a promotion. My double fianchetto was looking pretty good. I just had to watch out for White's knights. I can be susceptible to walking into forks.
 
 <figure>
   <img src="{{ '/assets/images/2026-04-01-game1/move30.png' | relative_url }}" alt="After 15...h6">
