@@ -50,7 +50,7 @@ I started with the Colle-Zukertort setup but didn't quite complete it because Bl
 
 **8. Be2 Ng4 9. Ne5 Ngxe5 10. Bxh5 g5 11. Nf3 g4 12. Nxe5 gxh3**
 
-Black played an interesting move with Ng4, putting the knight directly where I could have taken it with hxg4. For some reason I didn't like the look of taking the knight and leaving the h-file open. Or maybe I just didn't consider it at all. Sometimes I can be blind to my opponent's blunders. Instead I played Ne5 which is a very thematic move for this opening. Black exchanged their knight for my bishop and then allowed my light-squared bishop to develop to h5.
+Black played an interesting move with Ng4, putting the knight directly where I could have taken it with hxg4. For some reason I didn't like the look of taking the knight and leaving the h-file open. Or maybe I just didn't consider it at all. Sometimes I can be blind to my opponent's blunders. Instead I played Ne5 which is a very thematic move for this opening. Black took my knight with theirs, which allowed my bishop to capture their now-undefended bishop on h5.
 
 <figure>
   <img src="{{ '/assets/images/2026-03-28-game1/move20.png' | relative_url }}" alt="After 10...g5">
@@ -74,7 +74,7 @@ Black failed to see a very powerful fork was available to me. Nxf7 attacks the q
 
 <figure>
   <img src="{{ '/assets/images/2026-03-28-game1/move27.png' | relative_url }}" alt="After 14. Nxh8+">
-  <figcaption>After 14. Nxh8+: Rook taken with check. Up a full exchange.</figcaption>
+  <figcaption>After 14. Nxh8+: Rook taken with check. Up a rook and a piece.</figcaption>
 </figure>
 
 I thought I'd take the rook. I'll be up eight points in material and it comes with check, so that can't be bad.
@@ -99,7 +99,7 @@ Black was down material and had no intention of trading queens, so they retreate
   <figcaption>After 17. Bd2: Bishop developed. Rooks connected, e4 push coming.</figcaption>
 </figure>
 
-I brought the bishop up to d2. At first this doesn't look like a very powerful move, but one thing my chess coach had reminded me is that sometimes developing bishops don't need to immediately be attacking a piece. We need to think about their long-term, long-range x-ray capabilities, and also just getting them off the back rank allows the rooks to connect and get into the game. So a detour it was. I would eventually push e4 at the right time and open up a diagonal for the dark-squared bishop.
+I brought the bishop up to d2. At first this doesn't look like a very powerful move, but one thing my chess coach had reminded me is that sometimes developing bishops don't need to immediately be attacking a piece. We need to think about their long-term, long-range x-ray capabilities, and also just getting them off the back rank allows the rooks to connect and get into the game. So d2 it was. I would eventually push e4 at the right time and open up a diagonal for the dark-squared bishop.
 
 ---
 

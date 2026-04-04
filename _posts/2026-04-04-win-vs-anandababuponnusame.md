@@ -27,7 +27,7 @@ A pretty decisive victory where my opponent blundered the queen on move 13 and t
 
 <figure>
   <img src="{{ '/assets/images/2026-04-04-game1/move6.png' | relative_url }}" alt="After 3...Qa5+">
-  <figcaption>After 3...Qa5+: Early queen sortie. Easy to deal with.</figcaption>
+  <figcaption>After 3...Qa5+: Early queen attack. Easy to deal with.</figcaption>
 </figure>
 
 **1. d4 e6 2. Nf3 c6 3. e3 Qa5+ 4. Nbd2 Na6**
@@ -67,7 +67,7 @@ On the advice of my chess coach I moved my bishop to e2, setting up a discovered
 
 <figure>
   <img src="{{ '/assets/images/2026-04-04-game1/move21.png' | relative_url }}" alt="After 11. Ne5">
-  <figcaption>After 11. Ne5: Knight occupies the outpost. Bishop now attacks the queen on h5.</figcaption>
+  <figcaption>After 11. Ne5: Knight centralised on e5. Bishop now attacks the queen on h5.</figcaption>
 </figure>
 
 **11. Ne5 Qh6 12. f4 Bd6 13. Ndc4 Qxf4**
@@ -171,6 +171,5 @@ Nxd6+ Ke7 16. Nxb7 Ne3 17. Rxf7+ Ke8 18. Nd6+ Kd8 19. Rxd7# 1-0
 ### Further Reading
 
 - [Quick-Start Guide to the Colle-Zukertort](https://www.chess.com/article/view/quick-start-guide-to-the-colle-zukertort-an-opening-for-players-of-any-strength)
-- [Discovered Attack](https://www.chess.com/terms/discovered-attack-chess)
 - [The Dreaded Discovered Attack](https://www.chess.com/article/view/the-dreaded-discovered-attack)
 - [How to Punish Early Queen Attacks](https://www.chess.com/blog/chezzplyerr/how-to-punish-early-queen-attacks)
