@@ -9,7 +9,7 @@ figure { margin: 1.5em 0 2em; }
 figcaption { font-style: italic; color: #555; margin-top: 0.5em; }
 </style>
 
-**Puzzle:** [#1907994](https://www.chess.com/puzzles/problem/1907994) | **Theme:** Pin, Queen Trap | **Rating:** Hard
+**Puzzle:** [#1907994](https://www.chess.com/puzzles/problem/1907994) | **Theme:** Pin, Queen Trap | **Rating:** 1835 | **Pass Rate:** 67.1%
 
 <iframe id="14860085" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="https://www.chess.com/emboard?id=14860085"></iframe><script nonce="chesscom-diagram">window.addEventListener("message",e=>{e['data']&&"14860085"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+37}px`)})</script>
 
