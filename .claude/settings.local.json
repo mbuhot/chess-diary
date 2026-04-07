@@ -14,7 +14,8 @@
       "Bash($PYTHON -c \":*)",
       "Bash(grep:*)",
       "Bash(.skills/chess-diagram/chess-diagram/.venv/bin/python3 -c \":*)",
-      "WebFetch(domain:lichess.org)"
+      "WebFetch(domain:lichess.org)",
+      "Bash(.skills/chess-diagram/chess-diagram/.venv/bin/python3:*)"
     ]
   }
 }

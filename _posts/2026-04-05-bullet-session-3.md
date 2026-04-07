@@ -43,7 +43,7 @@ Five bullet games in an afternoon session. At the time I wasn't completely happy
 
 <iframe id="14849173" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="https://www.chess.com/emboard?id=14849173"></iframe><script nonce="chesscom-diagram">window.addEventListener("message",e=>{e['data']&&"14849173"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+37}px`)})</script>
 
-A Colle-Zukertort game where I was in a completely winning position and lost on time. Black castled queenside on move 9 which shifted the game to the queenside, exactly where the Colle-Zukertort wants to play.
+A Colle-Zukertort game where I was in a completely winning position and lost on time. Black castled queenside on move 9 which shifted the game to the queenside.
 
 **1. d4 c6 2. Nf3 d5 3. e3 Bf5 4. Bd3 Bxd3 5. Qxd3 Qb6 6. O-O Nf6 7. b3 Nbd7 8. Bb2 e6 9. Ne5 O-O-O 10. Nd2 Bd6 11. c4**
 
