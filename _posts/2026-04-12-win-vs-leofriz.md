@@ -250,8 +250,7 @@ Rc1 Re1+ 28. Kd2 R8e2# 0-1
 
 ### Further Reading
 
-- [Jobava London System](https://www.chess.com/openings/London-System)
+- [Jobava London System](https://www.chess.com/blog/thechesscorner64/jobava-london-exploration)
 - [Pirc Defense](https://www.chess.com/openings/Pirc-Defense)
 - [Discovered Attack](https://www.chess.com/terms/discovered-attack-chess)
 - [X-Ray Attack](https://www.chess.com/lessons/build-your-technique/x-ray-attack)
-- [Back Rank Mate](https://www.chess.com/terms/back-rank-mate-chess)
