@@ -227,12 +227,12 @@ White's final mistake was Rc1 with a mate in two on the board. They could have t
 - Careful defensive calculation to find Qd7 against the checkmate threat.
 - Finding the Rxe2+ check to exploit the pinned knight and trap White's king on d1.
 - Identifying that Qxf5 was the best continuation after considering multiple variations.
+- Using all the time available in the daily game format to really study candidate moves and their consequences. This game felt like playing puzzles and that approach paid off.
 
 **What to work on:**
 
 - Getting more comfortable with the d5 pawn push. It's thematic for the Grunfeld but unfamiliar since I usually play the Pirc or KID with d6.
 - Being aware of pawn moves that invite the opponent to kick my pieces, like b6 inviting d5.
-- In the daily game format, using all the time available to really study candidate moves and their consequences. This game felt like playing puzzles and that approach paid off.
 
 ---
 
