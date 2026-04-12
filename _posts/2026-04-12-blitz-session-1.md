@@ -18,7 +18,7 @@ th { background-color: #f5f5f5; }
 
 ### Overview
 
-My first blitz session on the blog. At this rating level there's generally one key moment where the tide swings for one player or the other, so for each game I've picked out the turning point. The losses all came from specific blunders I can learn from, and the wins came from spotting tactics and converting material advantages.
+My first blitz session on the blog. Not a great session with 3 wins and 3 losses, but my rating landed at about the same place it started (524). I've still got some work to do to get it back up to the 667 it was back in February. At this rating level there's generally one key moment where the tide swings for one player or the other, so for each game I've picked out the turning point. The losses all came from specific blunders I can learn from, and the wins came from spotting tactics and converting material advantages.
 
 ---
 
