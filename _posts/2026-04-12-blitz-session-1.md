@@ -147,8 +147,7 @@ Unfortunately I missed a chance to win my opponent's rook. After **31...Bb4**, I
 
 **What to work on:**
 
-- **Qf2 not Rf2**: When defending a check, consider which piece should do the blocking. The queen on f2 invites a trade when you're up material. The rook on f2 does nothing.
-- **h6 vs f6 to kick bishops**: Think about where the bishop can go after being kicked. h6 opened the door for Be7. f6 forces a retreat.
+- **Consider all the options when blocking**: Two of my losses came down to the same mistake: not considering the multiple available options for blocking a check or kicking a piece. Qf2 instead of Rf2 to block the check, f6 instead of h6 to kick the bishop. In both cases, if I'd paused and compared the alternatives, I would have been in a much better position.
 - **Opening traps**: The Nxf7 fork supported by the bishop on c4 is a pattern I keep falling for. I need to block the bishop's diagonal with a pawn before fianchettoing.
 - **Look for checkmates**: Qh5+ Qf7# was sitting there for a beautiful 11-move win.
 
