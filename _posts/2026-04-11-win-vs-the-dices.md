@@ -121,25 +121,29 @@ I'm not sure what happened to my opponent here but they blundered their queen. T
 
 **26. Ne2 f3**
 
-Over the next couple of moves I push the pawn in front of the king, prompting White to interpose with a knight.
+I push the pawn to f3, attacking the knight on e2. White can't take because the g-pawn is pinned to the knight by my queen on g5. So White hops the knight over to g3.
 
 <figure>
   <img src="{{ '/assets/images/2026-04-11-game1/move52.png' | relative_url }}" alt="After 26...f3">
-  <figcaption>After 26...f3: Pawn advances on the weakened kingside.</figcaption>
+  <figcaption>After 26...f3: Pawn attacks the knight. The g-pawn is pinned.</figcaption>
 </figure>
 
-**27. Ng3 fxg2 28. Kxg2 Rxe4 29. f4 Re2+**
+**27. Ng3 fxg2 28. Kxg2 Rxe4**
 
-The pin on the knight allowed me to check with my rook on e2. I was actually getting a little overconfident here. Yes I was up in material, but there was no need to get fancy trying to exploit pins. The end result was that I pushed a pawn to provoke my opponent and then won the rook anyway.
+I take the pawn in front of the king, pinning the knight to its new home on g3.
+
+**29. f4 Re2+**
+
+When White pushed f4 to attack my queen, I got overconfident. I pushed my rook to e2 checking the king rather than simply taking the pawn with my rook, which would have invited a rook trade and simplified the position. Yes I was up in material, but there was no need to get fancy trying to exploit pins.
 
 <figure>
   <img src="{{ '/assets/images/2026-04-11-game1/move58.png' | relative_url }}" alt="After 29...Re2+">
-  <figcaption>After 29...Re2+: Rook invades with check.</figcaption>
+  <figcaption>After 29...Re2+: Overconfident. Taking the pawn was simpler.</figcaption>
 </figure>
 
 **30. Kf3 Qe7 31. Nxe2 Re8 32. Rfe1 c6 33. Ng3 d5 0-1**
 
-At this point I had a look at how much time was on the clock and I was up 45 seconds with my opponent down to just a few seconds. I didn't make a very accurate final move. I just tried to keep their clock ticking, pretty confident I'd be able to flag them on time. On move 33 they ran out.
+The end result was that a simple pawn push from my opponent won them the rook. At this point I had a look at how much time was on the clock and I was up 45 seconds with my opponent down to just a few seconds. I didn't make a very accurate final move. I just tried to keep their clock ticking, pretty confident I'd be able to flag them on time. On move 33 they ran out.
 
 ---
 
