@@ -4,3 +4,4 @@ _site/
 .jekyll-metadata
 vendor/
 .skills/chess-diagram/chess-diagram/.venv/
+.claude/settings.local.json
