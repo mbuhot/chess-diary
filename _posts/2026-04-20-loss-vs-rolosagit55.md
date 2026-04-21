@@ -79,10 +79,10 @@ The knight is pinned. I push d6 to attack it, White tries f4 to support it, but 
 
 <figure>
   <img src="{{ '/assets/images/2026-04-20-game1/move26.png' | relative_url }}" alt="After 13...Rxe5+">
-  <figcaption>After 13...Rxe5+: Check. White's queen forced to block on e2.</figcaption>
+  <figcaption>After 13...Rxe5+: Check. White must block on e2.</figcaption>
 </figure>
 
-I take the last e-pawn with check. White's queen has to come to e2 to block, and now I can develop my knight to d4 targeting c2.
+I take the last e-pawn with check. White blocks with the bishop, and now I can develop my knight to d4 targeting c2.
 
 ---
 
@@ -113,20 +113,20 @@ White tries to pin my knight to my queen with Rd1, but it's not a real pin becau
   <figcaption>After 16. Kf1: Black has a 4.3 advantage. The critical decision point.</figcaption>
 </figure>
 
-This is the position where I had a 4.3 evaluation advantage. Two extra pawns, a knight on c2 attacking the rook, a rook on e5 controlling the open file, and White's king stuck on f1 with a disconnected rook. I was completely winning.
+This is the position where I had a 4.3 evaluation advantage. Two extra pawns, a knight on c2 controlling the valuable e1 and e3 squares, a rook on e5 controlling the open file, and White's king stuck on f1 blocking in the rook. I was completely winning.
 
 And this is where I got overconfident. I saw that **Ne3+** forks the king and rook. White's queen has to take the knight. Then I play **Qxd1+** taking the rook with check. White recaptures and I take the queen with my rook. I'd be up an exchange in a simplified position. Easy game.
 
-The problem: I assumed White would recapture on d1 with the bishop. I didn't check the other option. If White plays **Nxd1**, the knight defends e3. My rook can't take the queen. I've just given up a knight and a queen for a rook.
+The problem: I assumed White would recapture on d1 with the bishop. I didn't check the other option. If White plays **Nxd1**, the knight defends e3. My rook can still take the queen, but it gets recaptured. I've traded a knight, queen, and rook for a rook and queen.
 
 **16...Ne3+ 17. Qxe3 Qxd1+ 18. Nxd1**
 
 <figure>
   <img src="{{ '/assets/images/2026-04-20-game1/move35.png' | relative_url }}" alt="After 18. Nxd1">
-  <figcaption>After 18. Nxd1: Knight defends e3. The queen is safe. Black lost a piece.</figcaption>
+  <figcaption>After 18. Nxd1: Knight defends e3. The queen can only be taken at the cost of the rook.</figcaption>
 </figure>
 
-The knight on d1 guards e3. My rook can't take the queen. I've thrown away a completely winning position.
+The mistake was already made. The knight on d1 now guards the queen on e3, so my rook can only capture the queen by giving itself up. I've thrown away a completely winning position.
 
 **18...Rxe3 19. Nxe3 Be6**
 
@@ -135,7 +135,7 @@ The knight on d1 guards e3. My rook can't take the queen. I've thrown away a com
   <figcaption>After 19...Be6: Down a piece. The advantage is gone.</figcaption>
 </figure>
 
-The engine says the right move after 16. Kf1 was simply to move the queen off the d-file. Qd5 is especially good: it guards e3 (preparing the knight to move there next turn), prevents Rd8+ check, and waits for a position where Black wins White's queen. No fireworks needed. I was already winning. A quiet move would have sealed it.
+The engine says the right move after 16. Kf1 was simply to move the queen off the d-file. Qg5 is especially good: it guards e3 (preparing the knight to move there next turn), prevents Rd8+ check, and sets up a follow-up that wins White's queen.
 
 ---
 
@@ -149,11 +149,9 @@ The rest of the game was a long struggle down a piece. White played sensible mov
 
 Chess.com scored my opening at 99% accuracy. The first 15 moves were all good to excellent. White's e5 push was a mistake and my reply was the best move. The Bxe5 trap to pin the knight, the d6 pawn push to exploit the pin, the Nc2+ fork. All correctly calculated.
 
-The engine flags castling (O-O on move 11 in White's notation) as a mistake by White. Good alternatives for White included a4 to support the bishop, Qe2 to defend both hanging pieces simultaneously, or simply Bxc6 to trade and castle.
+On move 16, after Kf1, the engine confirms multiple good moves for Black: Qd5, Qg5, Qe7, Qe8 all maintain a massive advantage. Qg5 is especially strong, preparing to win White's queen.
 
-On move 16, after Kf1, the engine confirms multiple good moves for Black: Qd5, Qg5, Qe7, Qe8 all maintain a massive advantage. Qd5 looks especially strong because it guards the e3 square for the knight to move there next turn while preventing Rd8+.
-
-The Ne3+ blunder dropped the evaluation from 4.3 to about 0.5. One move, one incomplete calculation.
+The Ne3+ blunder swung the evaluation from -4.3 to +2.1. One move, one incomplete calculation.
 
 ---
 
@@ -169,7 +167,7 @@ The Ne3+ blunder dropped the evaluation from 4.3 to about 0.5. One move, one inc
 **What to work on:**
 
 - When calculating a capture sequence, check every piece that can recapture on a square, not just the one you expect. Nxd1 vs Bxd1 made all the difference and I only considered one of them.
-- When you're in a winning position, play solid. A quiet move like Qd5 would have won. I didn't need a flashy fork.
+- When you're in a winning position, play solid. Preparing a stronger attack with Qg5 would have won. Don't get excited by clever tactics like the fork I jumped at.
 - Calculate until the end of the exchange sequence. The line was Ne3+ Qxe3 Qxd1+ and I stopped there, assuming the result. One more move of calculation would have shown me Nxd1 guarding e3.
 
 ---
