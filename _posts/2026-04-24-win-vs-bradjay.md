@@ -9,7 +9,7 @@ figure { margin: 1.5em 0 2em; }
 figcaption { font-style: italic; color: #555; margin-top: 0.5em; }
 </style>
 
-**Opening:** Colle-Zukertort (A48) | **Result:** 1-0 (Resignation) | **Time Control:** 14 days/move (Daily) | **Rated**
+**Opening:** Colle-Zukertort | **Result:** 1-0 (Resignation) | **Time Control:** 14 days/move (Daily) | **Rated**
 
 [View on Chess.com](https://www.chess.com/game/daily/961333175)
 
