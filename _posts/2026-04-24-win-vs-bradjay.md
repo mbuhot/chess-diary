@@ -113,7 +113,7 @@ Black dropped the king back to e8 and from this position I didn't even need to p
 
 <figure>
   <img src="{{ '/assets/images/2026-04-24-game2/move47.png' | relative_url }}" alt="After 24. cxd8=Q+">
-  <figcaption>After 24. cxd8=Q+: Promotion. Rook sacrificed for nothing.</figcaption>
+  <figcaption>After 24. cxd8=Q+: Promotion. Rook sacrificed to hang on a little longer.</figcaption>
 </figure>
 
 ---
