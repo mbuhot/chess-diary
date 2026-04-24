@@ -9,7 +9,7 @@ figure { margin: 1.5em 0 2em; }
 figcaption { font-style: italic; color: #555; margin-top: 0.5em; }
 </style>
 
-**Opening:** A45, Queenside Fianchetto | **Result:** 0-1 (Resignation) | **Time Control:** 1 day/move (Daily) | **Rated**
+**Opening:** Indian Game with 2...b6 | **Result:** 0-1 (Resignation) | **Time Control:** 1 day/move (Daily) | **Rated**
 
 [View on Chess.com](https://www.chess.com/game/daily/961125677)
 
@@ -49,11 +49,11 @@ White plays Bd3, which is a natural developing move but leaves g2 completely und
   <figcaption>After 5...Bxh1: Rook taken. The bishop's raid continues.</figcaption>
 </figure>
 
-After taking the g2 pawn, the rook on h1 is next. White brings out the knight to f3 but my bishop grabs the rook first. White moves the king to d2 trying to trap my bishop, but I can take the knight on f3 on the way out. White recaptures with the queen, and I've come away with a rook and a pawn for a bishop. Six points of material up out of the opening. Can't ask for much better than that.
+After taking the g2 pawn, the rook on h1 is next. White brings out the knight to f3 but my bishop grabs the rook first. White moves the king to d2 trying to trap my bishop, but I can take the knight on f3 on the way out. White recaptures with the queen, and I've come away with a rook, knight and pawn for a bishop. Six points of material up out of the opening. Can't ask for much better than that.
 
 <figure>
   <img src="{{ '/assets/images/2026-04-24-game1/move12.png' | relative_url }}" alt="After 6...Bxf3">
-  <figcaption>After 6...Bxf3: Knight captured too. Up a rook and pawn.</figcaption>
+  <figcaption>After 6...Bxf3: Knight captured too. Up a rook and pawn after the Queen recaptures.</figcaption>
 </figure>
 
 ---
@@ -67,7 +67,7 @@ After taking the g2 pawn, the rook on h1 is next. White brings out the knight to
   <figcaption>After 9. Bg5: Pin on the knight. Be7 breaks it.</figcaption>
 </figure>
 
-White develops and brings the bishop to g5, pinning my knight to the queen. I break the pin with Be7.
+White brings the bishop to g5, pinning my knight to the queen. I break the pin with Be7.
 
 **10. Ne4 Nxe4+ 11. Bxe4 Bxg5**
 
@@ -115,16 +115,16 @@ I grab the bishop and now I'm up 12 points of material. But the game still isn't
 
 **16. h4 Rf3 17. Qg4 Bxe3+**
 
-My plan was to create a triple battery on the f-file, but I needed to deal with the pawn that was attacking my bishop on g5. I was up so much material that I didn't mind giving back three points if it allowed me to set up my strategy. I went for Bxe3+, sacrificing the bishop to open the f-file and draw the king forward.
+My plan was to create a triple battery on the f-file, but I needed to deal with the pawn that was attacking my bishop on g5. I was up so much material that I didn't mind giving back three points if it allowed me to set up my strategy. I went for Bxe3+, sacrificing the bishop to clear space on the f-file.
 
 <figure>
   <img src="{{ '/assets/images/2026-04-24-game1/move34.png' | relative_url }}" alt="After 17...Bxe3+">
-  <figcaption>After 17...Bxe3+: Sacrifice to blow open the f-file.</figcaption>
+  <figcaption>After 17...Bxe3+: Sacrifice to prepare for Qf6 and Raf8</figcaption>
 </figure>
 
 **18. Ke2 Nxd4+ 19. Kd1 Qf6 20. Qxe4 Rf8 21. fxe3 Rf1+**
 
-My opponent didn't take the bishop with their pawn. Instead they moved the king to e2, which actually allowed me to take another pawn with my knight on d4 with a discovered check. The king is pushed to the back rank. I bring my queen to f6 clearing the path for my other rook to join on f8, setting up the triple battery I had in mind. White sees the bishop can be taken with a pawn and goes for it, but that clears the path for my battery to attack the king.
+My opponent didn't take the bishop with their pawn. Instead they moved the king to e2, which actually allowed me to take another pawn with my knight on d4 with check. The king is pushed to the back rank. I bring my queen to f6 clearing the path for my other rook to join on f8, setting up the triple battery I had in mind. White sees the bishop can be taken with a pawn and goes for it, but that clears the path for my battery to attack the king.
 
 ---
 
@@ -182,5 +182,3 @@ fxe3 Rf1+ 22. Rxf1 Qxf1+ 23. Kd2 Nf3+ 24. Kc3 Qe1+ 25. Kb3 Nd2+ 0-1
 - [Fianchetto](https://www.chess.com/terms/fianchetto-chess)
 - [Removing the Defender](https://www.chess.com/terms/removing-the-defender-chess)
 - [How to Convert an Advantage](https://www.chess.com/article/view/how-to-convert-chess-advantage)
-- [Checkmate Patterns](https://www.chess.com/terms/checkmate-chess)
-- [Improve Your Thinking Process: Deal with Threats the Right Way](https://www.chess.com/blog/GaborHorvath/improve-your-thinking-process-deal-with-threats-the-right-way)
