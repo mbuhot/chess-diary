@@ -41,7 +41,7 @@ I start with the Queen's Pawn opening, and my opponent plays a very aggressive r
   <figcaption>After 5. Bd3: Developing. Black's bishop is about to run out of squares.</figcaption>
 </figure>
 
-We trade some pawns in the centre and then I push e4 to grab space.
+We trade some pawns in the centre and then I push e4 to prevent Black pushing to e4 forking my knight and bishop.
 
 ---
 
@@ -54,7 +54,7 @@ We trade some pawns in the centre and then I push e4 to grab space.
   <figcaption>After 10. Bb2: All minor pieces developed. Ready to castle.</figcaption>
 </figure>
 
-I kick Black's bishop away with a3 and b4, pushing it all the way back to b6 where it's not doing much. By move 10, I've got all my minor pieces developed and I'm ready to castle. Normally aggressive opening attacks are difficult for me, but I think because I'm quite familiar with this opening I know how to deal with most of them.
+I kick Black's bishop away with a3 and b4, pushing it all the way back to b6 where it still eyes the f2 square. I'll be watching that key square. By move 10, I've got all my minor pieces developed and I'm ready to castle. Normally aggressive opening attacks are difficult for me, but I think because I'm quite familiar with this opening I know how to deal with most of them.
 
 ---
 
@@ -157,4 +157,3 @@ Nfxe5 Nc6 16. f4 b5 17. Nxc6 Qxc6 18. Ne5 Qf6 19. Qe2 h6 20. Rae1 1-0
 - [Horwitz Defence](https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense...6.g3-Bb7-7.Bg2-O-O-8.O-O)
 - [Early Queen Attacks and How to Stop Them](https://www.chess.com/blog/ryanchen100/early-queen-attacks-and-how-to-stop-them)
 - [Trapping Pieces](https://www.chess.com/article/view/trapping-pieces)
-- [The 10 Most Common Chess Mistakes Among Beginners](https://www.chess.com/article/view/the-10-most-common-mistakes-among-chess-beginners)
