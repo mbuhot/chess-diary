@@ -29,7 +29,7 @@ This was a bullet game, one of about 14 that I played this afternoon. I probably
 
 <figure>
   <img src="{{ '/assets/images/2026-04-25-game1/move9.png' | relative_url }}" alt="After 5. Bg5">
-  <figcaption>After 5. Bg5: Pin on the knight. Must kick it before castling.</figcaption>
+  <figcaption>After 5. Bg5: Attacking the knight. Must kick it before castling.</figcaption>
 </figure>
 
 I went with my Pirc Defence. On move five, White played Bg5, which I've learnt is important to kick away before castling. If you wait until after castling to push h6, White can form a battery with the queen, take the pawn, exchange bishops, and leave the Black king very weak. So I'm glad I was able to kick the bishop and exchange White's dark-squared bishop for my knight, preserving my own dark-squared bishop as a key defender.
@@ -74,7 +74,7 @@ White decided to attack with the queen anyway, grabbing the h6 pawn. At first th
   <figcaption>After 13. Qxg6+: Check. Queen on the same file as the king.</figcaption>
 </figure>
 
-White checks with the queen on g6, and the tactic alarm bells started ringing. White just put the queen on the same file as my king with a long-range piece nearby that I could use to deflect the queen away and then check the king. I was pretty confident something good was coming.
+White checks with the queen on g6, and the tactic alarm bells started ringing. White just put the queen on the same file as their king with a long-range piece nearby that I could use to deflect the queen away and then check the king. I was pretty confident something good was coming.
 
 **14. Qh6 Qf8**
 
@@ -103,13 +103,20 @@ White takes on f5, and I play the move I'd been planning: Rxg2+. The rook crashe
   <figcaption>After 16...Qxh6: Queen captured. White resigns.</figcaption>
 </figure>
 
+<figure>
+  <img src="{{ '/assets/images/2026-04-25-game1/brilliant.png' | relative_url }}" alt="Chess.com Brilliant Move badge for Rxg2+">
+  <figcaption>Chess.com Game Review: Rxg2+ rated Brilliant. Shown from White's perspective.</figcaption>
+</figure>
+
 Now I've got two bishops and a queen all pointed in the direction of White's king with an immediate threat of Qxh2. The king can escape via f3 but it gets pushed into the centre and I'm up material. It was extra satisfying when chess.com rated the Rxg2+ move as brilliant. White resigned.
 
 ---
 
 ### Engine Review
 
-A pretty messy game according to the engine: 64.2% accuracy for me and 52.7% for my opponent. Two missed tactics from me, although no blunders and no mistakes. Four mistakes from my opponent. Game rating of 700 for me and 250 for my opponent.
+Chess.com gave me 86% accuracy versus 75.7% for my opponent, with a game rating of 1050 for me and 800 for my opponent.
+
+One blunder in the game from my opponent: move 15, which allowed Rxg2+. One mistake from me on move 12: the engine prefers f4 to prevent White from playing f4 themselves. It worked out fine since the Rf7, Rg7, Qf8 setup was exactly what won me the game.
 
 The key mistake from White was Qxh6 on move 12, launching a premature queen attack without enough supporting pieces. The engine says the best way for me to have prevented the queen attack was to bring the bishop back to g7 after pushing f5. The bishop's primary role in the Pirc is defending the king, and it shouldn't leave that post until the centre is completely closed and there's no risk of being attacked. That's something to remember for future games.
 
@@ -127,7 +134,6 @@ The key mistake from White was Qxh6 on move 12, launching a premature queen atta
 **What to work on:**
 
 - Remember that the dark-squared bishop's primary role in the Pirc is defending the king. Bringing it back to g7 after f5 would have prevented the queen invasion entirely. The bishop shouldn't leave that defensive post until the centre is closed and there's no risk of attack.
-- I missed two tactics according to the engine. Even in bullet, I should keep looking for opponent mistakes.
 
 ---
 
@@ -144,6 +150,5 @@ Nc6 9. d5 Ne5 10. Nxe5 Bxe5 11. Qd2 f5 12. Qxh6 Rf7 13. Qxg6+ Rg7 14. Qh6 Qf8
 ### Further Reading
 
 - [Pirc Defence](https://www.chess.com/openings/Pirc-Defense)
-- [Discovered Attack](https://www.chess.com/terms/discovered-attack-chess)
 - [The Dreaded Discovered Attack](https://www.chess.com/article/view/the-dreaded-discovered-attack)
 - [Early Queen Attacks and How to Stop Them](https://www.chess.com/blog/ryanchen100/early-queen-attacks-and-how-to-stop-them)
