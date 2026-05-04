@@ -4,8 +4,9 @@
     {
       "name": "jekyll",
       "runtimeExecutable": "/opt/homebrew/opt/ruby/bin/bundle",
-      "runtimeArgs": ["exec", "jekyll", "serve", "--livereload"],
-      "autoPort": true
+      "runtimeArgs": ["exec", "jekyll", "serve", "--livereload", "--port", "4001"],
+      "port": 4001,
+      "autoPort": false
     }
   ]
 }
