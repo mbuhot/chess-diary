@@ -8,6 +8,10 @@ This is a chess blog where I (ohnonotmyhorsey, ~750 rated on chess.com) review m
 - URL: `https://ohnonotmyhorsey.com`
 - Theme: minima
 
+## Chess terminology
+
+Before using any chess term in a post, verify its meaning against `GLOSSARY.md` in the project root. If the term isn't in the glossary, search for its definition first. Do NOT use a term unless the position genuinely satisfies the definition. Do NOT embellish positions with terminology I didn't use in my dictation. If I didn't call something an outpost, don't call it an outpost. Stick to what I said.
+
 ## How I provide game data
 
 I'll give you a dictated voice recording of my self-review plus the PGN and engine analysis. The dictation will have voice-to-text errors (e.g. "porn" for "pawn", "keen" for "king", "roof" for "rook"). Clean these up but preserve my voice and opinions.
