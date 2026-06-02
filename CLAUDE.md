@@ -16,12 +16,17 @@ Before using any chess term in a post, verify its meaning against `GLOSSARY.md` 
 
 I'll give you a dictated voice recording of my self-review plus the PGN and engine analysis. The dictation will have voice-to-text errors (e.g. "porn" for "pawn", "keen" for "king", "roof" for "rook"). Clean these up but preserve my voice and opinions.
 
+Watch for pronoun garbling too. If a sentence has "they" or "you" but the context makes it nonsensical (e.g. "they must have been playing fast" attached to my own mistake), suspect a voice-to-text error and fix the pronoun. Apply the same scepticism to subjects as to nouns.
+
 ## Writing style
 
 - Mix of casual/personal and educational/analytical tone. First person, conversational.
 - No emdashes (`—`). Use periods, commas, or colons instead. Emdashes are too indicative of AI-assisted writing.
 - Bold move notation inline (e.g. `**12...f5**`).
 - Don't embellish or invent thoughts I didn't express. Stick to what I said in the dictation.
+- Don't pile on qualifying conditions that aren't in my dictation and aren't required for the claim to be true. "When the bishop comes out, b2 is undefended" is fine. "When the bishop comes out and gets traded off, b2 is undefended" adds a condition I didn't say and that isn't necessary.
+- Describe a tactic by its real target (the rook, the queen, the mate), not the bait capture. Bxb2 in a fianchetto position isn't about the b2 pawn, it's setting up Bxa1 to win the rook. Trace the full sequence in dictation before writing the description; if the dictation is ambiguous, ask.
+- When I correct your framing in chat, that's tuition for you, not content for the post. Rewrite the description so it's right the first time. Do not leave "X isn't really the point, Y is" sentences in the post as a residue of the correction. The reader has no idea what wrong version you almost wrote.
 
 ## Post types
 
@@ -227,7 +232,9 @@ When multiple games are posted on the same day, use the `date` front matter with
 
 ## Further Reading links
 
-Don't guess URLs for the Further Reading section. Search the web first to find real, current links on the relevant topics. Verify with WebFetch where possible. If a domain is blocked by the proxy, web search results are acceptable confirmation that the URL exists.
+Don't guess URLs for the Further Reading section. Search the web first to find real, current links on the relevant topics. Verify each URL with WebFetch before including it. WebSearch alone is not sufficient: search results show what the engine has indexed, not that the page currently loads. Only fall back to WebSearch confirmation if WebFetch can't reach the domain.
+
+Maximum three links. Each one should cover a distinct topic. Never include near-duplicates (e.g. an openings page and a strategy article both titled "Pirc Defense"). If two candidate links overlap, pick one.
 
 ## Git commits
 
