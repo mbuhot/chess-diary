@@ -14,7 +14,7 @@ Before using any chess term in a post, verify its meaning against `GLOSSARY.md` 
 
 ## How I provide game data
 
-I'll give you a dictated voice recording of my self-review plus the PGN and engine analysis. The dictation will have voice-to-text errors (e.g. "porn" for "pawn", "keen" for "king", "roof" for "rook"). Clean these up but preserve my voice and opinions.
+I'll give you a dictated voice recording of my self-review plus the PGN and engine analysis. The dictation will have voice-to-text errors (e.g. "porn" for "pawn", "keen" for "king", "roof" for "rook", "blinded" for "blundered"). Clean these up but preserve my voice and opinions.
 
 Watch for pronoun garbling too. If a sentence has "they" or "you" but the context makes it nonsensical (e.g. "they must have been playing fast" attached to my own mistake), suspect a voice-to-text error and fix the pronoun. Apply the same scepticism to subjects as to nouns.
 
