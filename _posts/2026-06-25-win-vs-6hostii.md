@@ -169,11 +169,28 @@ The engine didn't like **10. g4**: it weakens the squares in front of my own kin
 
 On move 17, **17. cxd5** turned out to be the second-best move. It wasn't bad, but **17. f4** would have been better, stopping Qxe5.
 
-Moves 20 and 21 were the critical moment. My **21. Ne4**, threatening the queen and offering a trade of my knight for Black's light-squared bishop, was a mistake. The engine wanted me to solidify instead, clamping the light squares with pawns on h3, g4, f5, e4 and d5 to dominate completely and chase Black's light-squared bishop back to h7. Black didn't find the best reply to punish me, though. Rather than going for the trade, they played **21...Qxd5**. From there the engine simply preferred taking the queen straight away with the bishop; my flashier **22. Nf6+** first was only second-best, because the knight check handed over my knight on f6 before I collected the queen.
+Moves 20 and 21 were the critical moment. My **21. Ne4**, threatening the queen and offering a trade of my knight for Black's light-squared bishop, was a mistake. The engine wanted me to solidify instead, clamping the light squares with pawns and chasing Black's light-squared bishop back to h7.
 
-The engine line for Black on move 23 is fascinating. My rook is hanging on a1, but grabbing it is a mistake. The correct move is **23...Rd8**, pinning my bishop on d5 to my queen. I unpin with **24. Qf2**, and now both the rook on a1 and the bishop on d5 are hanging, so Black takes the rook and I retreat the bishop to f3, keeping everything safe behind the pawns.
+<figure>
+  <img src="{{ '/assets/images/2026-06-25-game1/line_move21_clamp.gif' | relative_url }}" alt="Engine line instead of 21. Ne4">
+  <figcaption>Engine line instead of 21. Ne4: 21. e4 e5 22. f5, clamping the light squares and pushing the bishop back to h7.</figcaption>
+</figure>
+
+Black didn't find the best reply to punish me, though. Rather than going for the trade, they played **21...Qxd5**. From there the engine simply preferred taking the queen straight away with the bishop; my flashier **22. Nf6+** first was only second-best, because the knight check handed over my knight on f6 before I collected the queen.
+
+The engine line for Black on move 23 is fascinating. My rook is hanging on a1, but grabbing it straight away is a mistake. The stronger move is **23...Rd8**, pinning my bishop on d5 to my queen first. I unpin with **24. Qf2**, and now both the rook on a1 and the bishop on d5 are hanging, so Black takes the rook with **24...Bxa1** and I retreat the bishop to f3, keeping everything safe behind the pawns.
+
+<figure>
+  <img src="{{ '/assets/images/2026-06-25-game1/line_move23_pin.gif' | relative_url }}" alt="Engine line after 23. Bxd5">
+  <figcaption>After 23. Bxd5: 23...Rd8 24. Qf2 Bxa1 25. Bf3, getting the rook in before snapping off the exchange.</figcaption>
+</figure>
 
 At the end, **37. gxf5** set the trap. Recapturing on f5 is the mistake: the accurate defence was to check with **37...Rb2+** first and then drop the bishop back to h5, keeping the f7 square covered. After Black took on f5 instead, the evaluation rocketed to about +5.6 in my favour even though I was only a single point of material ahead.
+
+<figure>
+  <img src="{{ '/assets/images/2026-06-25-game1/line_move37_defence.gif' | relative_url }}" alt="Engine defence after 37. gxf5">
+  <figcaption>The defence Black missed: 37...Rb2+ 38. Kf3 Bh5+, keeping f7 covered instead of recapturing.</figcaption>
+</figure>
 
 ---
 
