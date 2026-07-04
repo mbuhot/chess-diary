@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blitz Session 1: A Textbook Greek Gift"
+title: "July 4 Blitz Session"
 date: 2026-07-04 15:00:00 +1000
 ---
 
@@ -22,7 +22,7 @@ Five games of 5-minute blitz. Four wins and one loss, and my rating drifted up i
 
 The loss came first, against Satchatch in a Pirc where I was fine out of the opening and then hung a piece in the middlegame. After that it was four wins in a row. One of them barely counts: aragon-9440 abandoned the game after five moves. The other three were all cases of the opponent handing me the initiative. SANNSTAR threw a bishop at f7 on move four with nothing to back it up, and I just kept the extra piece and converted. Argopo pushed an early queen to f3, I got a comfortable position, and a long scrappy game ended with my a-pawn promoting and a queen-and-rook mate.
 
-The one I want to write up is the win against manuragh112. It's the cleanest Greek Gift I've ever landed: bishop takes h7, knight comes to g5 with check, queen to h5, and mate a few moves later. The opponent actually sped up their own defeat by walking a knight back into a pawn capture that gave me the pawn I needed to finish.
+The one I want to write up is the win against manuragh112. A very clean Greek Gift: bishop takes h7, knight comes to g5 with check, queen to h5, and mate a few moves later. The opponent actually sped up their own defeat by walking a knight back into a pawn capture that gave me the pawn I needed to finish.
 
 ---
 
@@ -47,7 +47,7 @@ The one I want to write up is the win against manuragh112. It's the cleanest Gre
 
 <iframe id="15352814" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="https://www.chess.com/emboard?id=15352814"></iframe><script nonce="chesscom-diagram">window.addEventListener("message",e=>{e['data']&&"15352814"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+37}px`)})</script>
 
-This one barely felt like a game. Black spent the opening shuffling pawns and their queen around the edge of the board while I built a big centre and pointed everything at the kingside.
+A seemingly dubious opening by my opponent. Black spent the opening shuffling pawns and their queen around the edge of the board while I built a big centre and pointed everything at the kingside.
 
 **1. e4 a5 2. d4 c6 3. Nf3 Qb6 4. Bd3 e6 5. O-O Nf6 6. Nc3 Bb4 7. a3 Bxc3 8. bxc3 O-O 9. e5 Nd5**
 
@@ -90,7 +90,6 @@ Black tries to plug the h7 square by bringing the knight back to f6. The problem
 
 - Landed the Greek Gift cleanly against manuragh112. Knight off f6, bishop takes h7, knight to g5, queen to h5, and the mate followed on its own.
 - Four wins from five, and I punished passive play in three of them. Slow openings, an early queen sortie, and an unsound bishop sacrifice all handed me the initiative.
-- Recognised the pattern the moment the f6 knight moved. That's the whole trick with the Greek Gift: it lives or dies on whether the defender can cover h7, and once **9. e5** chased the knight away, nobody could.
 
 **What to work on:**
 
