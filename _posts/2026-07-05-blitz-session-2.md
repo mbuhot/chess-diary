@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blitz Session 2: Battery Finishes"
+title: "July 5 Blitz Session"
 date: 2026-07-05 12:00:00 +1000
 ---
 
