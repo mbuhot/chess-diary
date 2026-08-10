@@ -89,7 +89,7 @@ White took the bishop with **14. Nxg4**, and now the f5 pawn break I'd been angl
   <figcaption>After 17.Ne6: White's knight forks my bishop and rook, but I had other plans.</figcaption>
 </figure>
 
-White sent the knight to **15. Nb5**, heading for c7, and I grabbed on g4 with the pawn, **15...fxg4**. White took the c7 pawn with **16. Nxc7**, forking my rook on a8, so I slid it to safety and hit the knight with **16...Rac8**. White replanted the knight on e6 with **17. Ne6**, forking my bishop on g7 and rook on f8. I decided to keep the attack rolling instead.
+White sent the knight to **15. Nb5**, heading for c7, and I grabbed on g4 with the pawn, **15...fxg4**. White took the c7 pawn with **16. Nxc7**, attacking my rook on a8, so I slid it to safety and hit the knight with **16...Rac8**. White replanted the knight on e6 with **17. Ne6**, forking my bishop on g7 and rook on f8. I decided to keep the attack rolling instead.
 
 **17...g3**
 
@@ -103,10 +103,10 @@ I pushed the g-pawn to **17...g3**, happy to give up the f8 rook because I could
 
 <figure>
   <img src="{{ '/assets/images/2026-08-10-game3/move38.png' | relative_url }}" alt="After 19...Nxg3">
-  <figcaption>After 19...Nxg3: the knight forks White's queen with tempo.</figcaption>
+  <figcaption>After 19...Nxg3: the knight attacks White's queen with tempo.</figcaption>
 </figure>
 
-White took with the pawn, **18. fxg3**, possibly thinking it won a tempo against my queen, but that let me check with **18...Rxf1+**. After **19. Qxf1** I played **19...Nxg3**, forking the queen with tempo. Then White made a curious move. Perhaps worried about ...Qh1 coming next, White played **20. Kf2** straight away, which simply hangs the queen.
+White took with the pawn, **18. fxg3**, possibly thinking it won a tempo against my queen, but that let me check with **18...Rxf1+**. After **19. Qxf1** I played **19...Nxg3**, attacking the queen with tempo. Then White made a curious move. Perhaps worried about ...Qh1 coming next, White played **20. Kf2** straight away, which simply hangs the queen.
 
 **20...Nxf1+ 21. Kxf1 Qh1+ 22. Kf2 Qxa1**
 
@@ -115,7 +115,7 @@ White took with the pawn, **18. fxg3**, possibly thinking it won a tempo against
   <figcaption>After 22...Qxa1: I've taken the queen and grabbed a rook in the corner.</figcaption>
 </figure>
 
-I snapped off the queen with **20...Nxf1+**, and White recaptured with the king, **21. Kxf1**. That let me get at the back rank: **21...Qh1+ 22. Kf2 Qxa1**, collecting the rook in the corner. From here I was a rook up with a raging attack.
+I snapped off the queen with **20...Nxf1+**, and White recaptured with the king, **21. Kxf1**. That let me get at the back rank: **21...Qh1+ 22. Kf2 Qxa1**, collecting the rook in the corner. From here I was up a queen and rook for a knight and bishop, with a raging attack.
 
 ---
 
