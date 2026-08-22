@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win vs Sallamabd-ulhai (928)"
+title: "Win vs Sallamabd-ulhai: A Pawn Push Turns the Tide"
 date: 2026-08-20 13:45:00 +1000
 ---
 
